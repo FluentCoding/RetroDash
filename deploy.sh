@@ -1,0 +1,1 @@
+cp RetroDash.nds /media/fluentcoding/DS\ HOMEBREW/RetroDash.nds
